@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: #2E8B57;
+}
+.Good{
+  display: flex;
+  flex-flow: wrap;
+ }
+.Good p{
+  text-align: center;
+  
+  }
+#bx{
+  display: flex;
+  margin: 30px;
+  border: 1px solid red;
+  padding: 20px;
+  width: 50%;
+  border-radius: 50px;
+  background-color: #FFF5EE;
+  text-align: center;
+}
+#cl{
+  display: flex;
+  margin: 70px;
+  font-size: 80px;
+}
+#cl a{
+  text-decoration: none;
+}
